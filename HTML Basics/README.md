@@ -1,0 +1,1 @@
+#HTML Basics contains all the information about basic HTML Elements and Tags for more information read comment in the index.html file
