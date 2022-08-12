@@ -1,0 +1,15 @@
+hr {
+    border-color: grey;
+    border-width: 5px;
+    border-style: dotted none none;
+    width: 5%;
+}
+
+img {
+    height: 120px;
+    width: 120px;
+}
+
+h1 {
+    color: powderblue;
+}
